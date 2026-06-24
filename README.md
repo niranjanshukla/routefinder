@@ -31,7 +31,7 @@ Route-Finder/
 │   └── PLAN.md   
 └── src/
     └── main/
-        ├── java/com/example/countryapi/
+        ├── java/com/ns/countryapi/
         │   ├── CountryApiApplication.java
         │   ├── model/
         │   │   ├── Country.java          ← record, ignores unknown fields
